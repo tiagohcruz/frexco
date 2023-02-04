@@ -11,4 +11,4 @@ Jupyter Notebook<p>
 
 :books:<h2>Bibliotecas:</h2> Pandas e matplotlib.
 
-[Snake animation](https://https://github.com/tiagohcruz/blob/output/github-contribution-grid-snake.svg)
+
