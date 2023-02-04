@@ -1,14 +1,14 @@
 
 
-Esse é o resultado do desafio da Frexco para a vaga de Estágio em Data Analitycs.
+<h3>Esse é o resultado do desafio da Frexco, como estapa do processo seletivo para o estágio de Data Analitycs.</3>
 
-📌<h2>Objetivo:</h2>
-Utilizar conheceitos de machine learning para gearr uma previsão de vendas com base no arquivo fornecido pela empresa.
+<h3>📌Objetivo:</h3>
+Utilizar conceitos de machine learning para gerar uma previsão de vendas com base no arquivo fornecido pela empresa.
 
-💻<h2>Tecnologia utilizadas:</h2>
+<h3>💻Tecnologia utilizadas:</h3>
 Python, 
 Jupyter Notebook<p>
 
-📚<h2>Bibliotecas:</h2> Pandas e matplotlib.
+<h3>📚Bibliotecas:</h3> Pandas e matplotlib.
 
 
